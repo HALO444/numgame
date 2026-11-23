@@ -12,3 +12,9 @@ A simple console-based number guessing game written in C. This is my first full 
 - ASCII art welcome screen for a fun introduction!
 
 
+
+
+
+
+
+nah, i am here
