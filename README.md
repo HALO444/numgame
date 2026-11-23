@@ -2,6 +2,9 @@
 
 A simple console-based number guessing game written in C. This is my first full C project, built after just 4 days of learning C!
 
+![screenshot](screenshot.png)
+
+
 ## 🎮 Features
 - Randomly generates a math problem (addition of two numbers).
 - Asks the player to guess the correct answer.
@@ -9,3 +12,9 @@ A simple console-based number guessing game written in C. This is my first full 
 - ASCII art welcome screen for a fun introduction!
 
 
+
+
+
+
+
+nah, i am here
